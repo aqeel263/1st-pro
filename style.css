@@ -1,0 +1,43 @@
+
+
+body{
+    background-color: rgb(48, 171, 175);
+}
+
+
+
+
+    .logo {
+        
+        margin-top:-20px;
+        margin-bottom: -20px;
+        text-align: center;
+    }
+    
+
+    .datatable {
+            align-content: center;
+            
+
+    }
+    .heading_table {
+
+        background: #ffb703;
+            font-weight: bold;
+            font-size: 20px;
+    }
+
+    .center_table {
+
+        margin: 0 auto;
+        text-align: center;
+    }
+
+
+    footer {
+        color:white;
+        text-align: center;
+        margin: 0px auto;
+        background: #003049;
+        padding: 10px 0px;
+    }
